@@ -29,7 +29,7 @@ I'm passionate about **software development**, **machine learning**, and **compu
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/just%20the%20message-8A2BE2?style=for-the-badge&logo=java&logoColor=white)
+![just the message](https://img.shields.io/badge/just%20the%20message-8A2BE2?style=for-the-badge&logo=java&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
@@ -79,23 +79,23 @@ I'm passionate about **software development**, **machine learning**, and **compu
   <summary>✨ <b>Explore More Projects</b></summary>
 
   - [Dog or Cat Identifier](https://github.com/Priyam2xx3/Dog_or_cat_identifier) — Can an ML model spot a dog from a cat? Find out!
-  - [Priyam Portfolio](https://github.com/Priyam2xx3/Priyam_portfolio) — My personal HTML/CSS portfolio.
+ 
 </details>
 
 ---
 
 ## 💼 Currently Learning & Building
 
-- Salesforce development basics
-- JAM sessions (Just Ask Me!)
-- Deployment best practices
-- Interview techniques
+- AI Interviewer Application
+- DSA in Java
+- DevOps
+- Deep Learning
 
 ---
 
 ## 🎯 My Goals
 
-- Crack campus placements with top tech skills
+- Java pro skills
 - Master machine learning workflows
 - Contribute to impactful projects and open source
 - Keep blending tech with creativity
@@ -104,9 +104,8 @@ I'm passionate about **software development**, **machine learning**, and **compu
 
 ## 📫 Let's Connect!
 
-- 📧 Email: your-email@example.com
-- 🐦 Twitter: [@yourtwitter](https://twitter.com/yourtwitter)
-- 💼 LinkedIn: [Priyam LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+
+- 💼 LinkedIn: [Priyam LinkedIn](www.linkedin.com/in/priyam-paul-024795262)
 - 😄 Fun fact: I combine anime inspiration with coding projects!
 
 ---
