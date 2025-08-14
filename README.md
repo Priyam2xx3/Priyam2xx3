@@ -1,4 +1,4 @@
-# octocat
+
 
 <!-- Profile Banner -->
 <p align="center">
@@ -7,10 +7,10 @@
 
 # 👋 Hi, I'm Priyam!
 
-## 🤖 Computer Science Engineering Student • Machine Learning Enthusiast • Anime Lover
+## 🤖 Computer Science Engineering Student • Machine Learning Enthusiast • 
 
 Welcome to my GitHub profile!  
-I'm passionate about **software development**, **machine learning**, and **computer vision**. When I'm not coding, you’ll find me watching anime or honing my interview and communication skills.
+I'm passionate about **software development**, **machine learning**, and **computer vision**. When I'm not coding, you’ll find me watching anime, listening to music, or learning different courses.
 
 ---
 
@@ -18,8 +18,8 @@ I'm passionate about **software development**, **machine learning**, and **compu
 
 - 🎓 **B.Tech in Computer Science Engineering** — exploring new tech every day
 - 🤖 Building projects in **ML**, **CV**, and **Web Development**
-- 🧠 Regularly working on interview preparation and documentation
-- ⚡️ Anime fan (especially _Bleach_) & open source contributor
+- 🧠 Regularly working on different projects and practising data structures and algorithms
+- ⚡️ Anime fan & open source contributor
 
 ---
 
@@ -29,7 +29,7 @@ I'm passionate about **software development**, **machine learning**, and **compu
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
