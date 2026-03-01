@@ -1,73 +1,99 @@
-# ⚡️ Priyam Paul
-### Full-Stack Developer | AI & Machine Learning Enthusiast | 3D Animator
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
----
-
-## 👨‍💻 About Me
-I am a 4th-year Computer Science Engineering student focused on bridging the gap between **Generative AI** and **User Experience**. I specialize in building RAG systems, computer vision models, and interactive web applications.
-
-- 🚀 **Currently Building:** [HelloWorld.ai](https://github.com/Priyam2xx3) - An AI-integrated meeting platform.
-- 🧠 **Deep Dive:** Mastering DSA in Java and advanced Deep Learning architectures.
-- 🎨 **Creative Side:** 3D Animation Lead for university events; I love blending technical logic with aesthetic design.
-- ⚔️ **Fun Fact:** My coding stamina is powered by *Bleach* marathons.
-
----
-
-## 🛠️ Tech Ecosystem
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, Java, JavaScript, TypeScript, Bash |
-| **AI / ML** | PyTorch, TensorFlow, OpenCV, Scikit-Learn, RAG, NLP |
-| **Web Stack** | Next.js, React, Node.js, Tailwind CSS, Bootstrap |
-| **Databases** | MongoDB, MySQL, PostgreSQL |
-| **DevOps/Tools** | Jenkins, Linux, Postman, Git |
-| **Creative** | Blender, 3D Animation, Video Editing |
-
----
-
-## 🌟 Featured Engineering Projects
-
-### 🤖 [HelloWorld.ai](https://github.com/Priyam2xx3)
-*Full-Stack AI Meeting Platform*
-- Real-time meeting functionalities integrated with AI agents for automated insights.
-- **Tech:** Next.js, WebRTC, AI Integration.
-
-### 📄 [RetriPDF](https://github.com/Priyam2xx3/RetriPDF)
-*Retrieval-Augmented Generation (RAG) System*
-- Allows users to have context-aware conversations with PDF documents using LLMs.
-- **Tech:** Python, LangChain, Vector Databases.
-
-### 🎭 [Facial Emotion Recognition](https://github.com/Priyam2xx3/Facial-Emotion-Recognition-using-CNN)
-*Computer Vision*
-- High-accuracy CNN model trained on FER2013 to detect human emotions in real-time.
-- **Tech:** CNN, OpenCV, Keras.
-
----
-
-## 📊 GitHub Analytics
-
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyam2xx3&show_icons=true&locale=en&layout=compact&theme=vision-glow&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyam2xx3&theme=vision-glow&hide_border=true" />
-</p>
-
----
-
-## 📫 Let's Connect
-<p align="left">
-<a href="https://www.linkedin.com/in/priyam-paul-024795262/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Priyam%20Paul&fontSize=70&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer" width="100%"/>
+  <a href="https://visitcount.itsvg.in/api?id=Priyam2xx3&label=Profile%20Views&color=12&icon=5&pretty=true">
+    <img src="https://visitcount.itsvg.in/api?id=Priyam2xx3&label=Profile%20Views&color=12&icon=5&pretty=true" />
+  </a>
+</p>
+
+<h3 align="center">🚀 Full-Stack AI Engineer | 4th Year CS Student | 3D Creative</h3>
+
+<p align="center">
+  <b>Passionate about bridging the gap between Deep Learning and Scalable Web Architectures.</b><br>
+  Currently refining <b>RetriPDF</b> and mastering <b>DSA in Java</b>.
+</p>
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
+</p>
+
+---
+
+### 📂 Featured AI & Vision Portfolio
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <h4>📄 RetriPDF</h4>
+      <p>A sophisticated <b>RAG (Retrieval-Augmented Generation)</b> system allowing interactive conversations with PDF documents using vector embeddings.</p>
+      <code>Python</code> <code>LangChain</code> <code>FAISS</code>
+    </td>
+    <td width="50%">
+      <h4>🧠 AI Tutor</h4>
+      <p>An intelligent learning assistant that provides personalized explanations and interview prep based on user progress.</p>
+      <code>LLMs</code> <code>Node.js</code> <code>Next.js</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🎭 Facial Emotion Recognition</h4>
+      <p>Deep Learning model using <b>CNNs</b> and the FER2013 dataset to categorize human emotions from real-time video feeds.</p>
+      <code>Keras</code> <code>TensorFlow</code> <code>OpenCV</code>
+    </td>
+    <td width="50%">
+      <h4>✋ Hand Gesture Recognition</h4>
+      <p>Computer Vision project capable of mapping hand movements to system commands or sign language translation.</p>
+      <code>MediaPipe</code> <code>Python</code> <code>NumPy</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 Activity & Insights
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Priyam2xx3&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyam2xx3&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyam2xx3&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### ✨ Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyam-paul-024795262/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
 </p>
