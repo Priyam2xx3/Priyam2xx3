@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="path/src/IMG.png" alt="Priyam Paul Professional Banner" widths="100%">
+  <img src="src/IMG.png" alt="Priyam Paul Professional Banner" widths="100%">
 </p>
 
 <p align="center">
