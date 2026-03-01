@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="src/IMG.png" alt="Priyam Paul Professional Banner" widths="100%">
-</p>
+# ⚡ Priyam Paul
+### Full-Stack Developer | AI & Machine Learning Engineer | 3D Creative
 
 <p align="center">
   <a href="https://visitcount.itsvg.in/api?id=Priyam2xx3&label=Profile%20Views&color=12&icon=5&pretty=true">
