@@ -1,18 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Priyam%20Paul&fontSize=70&animation=fadeIn" />
+  <img src="path/to/your/image_0.png" alt="Priyam Paul Professional Banner" widths="100%">
 </p>
 
 <p align="center">
   <a href="https://visitcount.itsvg.in/api?id=Priyam2xx3&label=Profile%20Views&color=12&icon=5&pretty=true">
     <img src="https://visitcount.itsvg.in/api?id=Priyam2xx3&label=Profile%20Views&color=12&icon=5&pretty=true" />
   </a>
-</p>
-
-<h3 align="center">🚀 Full-Stack AI Engineer | 4th Year CS Student | 3D Creative</h3>
-
-<p align="center">
-  <b>Passionate about bridging the gap between Deep Learning and Scalable Web Architectures.</b><br>
-  Currently refining <b>RetriPDF</b> and mastering <b>DSA in Java</b>.
 </p>
 
 ---
